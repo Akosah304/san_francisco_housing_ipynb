@@ -9,7 +9,7 @@ My approach is to use my data visualization skills, including aggregation, inter
 
 This challenge we create a Jupyter notebook that contains analysis of the housing rental market data for San Francisco. The analysis will be complete with professionally styled and formatted interactive visualizations.
 
-## Software Used
+## Technology
 The following python modules are used in the application. Remember to install these packages via Terminal for MacOS/Linux or GitBash for windows clients.
 
 pandas - pandas is used to interact with data packages, plot data frames, create new dataframes, describe abailable data, and helps traders and fintech proffesionals organize financial data to perform advanced decisionmaking.
